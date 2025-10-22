@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    position: center;
+}
+.gama-img{
+    transform: rotateY('50px');
+}
+.gama-img{
+    transition: property duration timing-function delay;
+}
+h1{
+    font-size: 63px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 21px;
+}
+
+.em-text{
+    color: #1caa98;
+}
+section{
+    padding: 40px 0px 40px 0px;
+}
+.jumbotron{
+    background-image: url(img/background.jpg) ;
+    overflow: none;
+    height: 545px;
+    
+    background-position: top;
+    background-size: auto;
+}
+.jumbotron.app-btn{
+    width: 30%;
+    margin-right:30px;
+}   
+img.demo{
+    width: 100%;
+    border: solid 1px #ccc ;
+    padding: 3px;
+margin-top: 35px;
+}
+.feature{
+    background-color: #1caa98;
+    padding: 40px;
+    color: white;
+}
+.feature ul li{
+    font-size: 22px;
+     list-style: none;
+    line-height: 2.0em;
+}
+footer{
+    background-color: #333;
+    color: white;
+    padding:30px 0px 20px 0px;
+}
+ul li{
+    margin-left: 15px;
+    color: white;
+    font-size: 22px;
+    list-style: none;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+footer p{
+ float: right;
+}
+.heading{
+    background-color: #1caa98;
+}
